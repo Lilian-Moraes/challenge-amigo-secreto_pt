@@ -1,5 +1,5 @@
 
-# Challenge: Sorteio de Amigo Secreteo
+# Challenge: Sorteio de Amigo Secreto
 
 Repositório no Github para armazenar códido do desafio
 Link do desafio: [Sorteio de Amigo Serceto](http://127.0.0.1:5500/index.html)
